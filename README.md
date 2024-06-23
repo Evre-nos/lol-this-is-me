@@ -1,23 +1,26 @@
-# Sayeed Mahmood (Evrenos)
+# Sayeed Mahmood Evrenos
 
-<div align="center">
-  <img src="https://github.com/sorenblank/sorenblank/blob/main/cover.jpg?raw=true" alt="Sayeed Mahmood's Banner" style="width: 100%; max-width: 800px; height: auto;">
+<div align="center" style="max-width: 800px; margin: auto;">
+  <img src="https://github.com/Evre-nos/lol-this-is-me/assets/138004078/68a210e8-41af-469b-9efc-8b2d7e02c8a7" alt="Second Image" style="width: 100%; height: auto; max-width: 800px;">
 </div>
 
-## Greetings, Esteemed Guests
 
-Welcome to my GitHub profile, where brilliance shines through the digital haze of mediocrity. Prepare yourself for a journey into the depths of my unparalleled greatness.
 
-## About Me (A Peek into My Majesty)
 
-- 🌱 Learning: Web Development (Because clearly, the internet needs more developers reinventing the to-do list)
-- 💬 Ask me about: Anything (From the supremely relevant to the utterly obscure)
-- 📚 Interests: Delving into critical topics (Like the impact of coffee on code quality and the optional nature of JavaScript semicolons)
-- 🧠 Fun fact: Yes, I'm a nerd (Shocking, isn't it?)
+## Greetings, Mere Mortals
 
-In full disclosure, I'm an Arch Linux user because making life choices should be an adventure. And of course, I edit text with Neovim, because who needs simplicity?
+I am Sayeed Mahmood, known in certain *illustrious* circles as Evrenos. You've stumbled upon my GitHub profile, likely by accident or sheer boredom. Congratulations on finding something marginally more interesting than watching paint dry.
 
-## Tech Stack (Tools of Digital Torment)
+## About Me (As If You Cared)
+
+- 🌱 Currently learning: Web Development (because the world desperately needs another developer)
+- 💬 Ask me about: Anything (I mean it, but prepare for answers of varying accuracy and relevance)
+- 📚 Interests: Deep diving into critical topics (like why pizza tastes better at 2 AM)
+- 🧠 Fun fact: I am a nerd (shocking, I know)
+
+Oh, and did I mention? I use Arch, btw. Because nothing says "I'm better than you" quite like a customizable Linux distro that breaks every other update. And of course, I use Neovim, because why make text editing easy when you can turn it into a PhD-level course?
+
+## Tech Stack (Tools of Mass Frustration)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -25,7 +28,7 @@ In full disclosure, I'm an Arch Linux user because making life choices should be
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-%231793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
 
-## Social Links (For the Seekers of Wisdom)
+## Social Media (In Case You're Not Tired of Me Yet)
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/evrenosenpai)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/zen_evrenos/)
@@ -34,9 +37,9 @@ In full disclosure, I'm an Arch Linux user because making life choices should be
 
 ## Final Thoughts
 
-If you've read this far, either you're genuinely interested or expertly procrastinating. Feel free to explore my repositories—an assortment of ambitious starts, questionable middles, and nonexistent endings, much like my commitment to side projects.
+If you've made it this far, congratulations on your impressive attention span. Feel free to peruse my repositories, but don't expect too much – they're mostly filled with half-finished projects and code that I swear worked on my machine.
 
-Remember, in the vast universe, we're all inconsequential. But some of us are inconsequential with superior operating systems and text editors that test our sanity. Farewell, and may your code compile on the first try (a true programmer's dream).
+Remember, in the grand tapestry of the universe, we're all just cosmic dust. But at least I'm cosmic dust running Arch Linux and editing text with Neovim. Checkmate, Windows users.
 
 ---
 
@@ -45,5 +48,5 @@ Remember, in the vast universe, we're all inconsequential. But some of us are in
 </div>
 
 <div align="center">
-  <i>"I'm not implying I'm a programming deity, but I'm definitely some kind of gift." - Anonymous (probably)</i>
+  <i>"I'm not arguing, I'm just explaining why I'm right." - Unknown</i>
 </div>
