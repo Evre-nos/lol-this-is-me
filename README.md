@@ -1,7 +1,7 @@
 # Sayeed Mahmood Evrenos
 
 <div align="center" style="max-width: 800px; margin: auto;">
-  <img src=https://github.com/Evre-nos/lol-this-is-me/assets/138004078/68a210e8-41af-469b-9efc-8b2d7e02c8a7](https://i.postimg.cc/KcLXd5PT/Default-A-digital-battle-scene-Two-figures-with-laptops-face-o-0-d6020b0c-7bb4-49fc-b730-e641f98b843.jpg alt="Second Image" style="width: 100%; height: auto; max-width: 800px;">
+  <img src=https://i.postimg.cc/KcLXd5PT/Default-A-digital-battle-scene-Two-figures-with-laptops-face-o-0-d6020b0c-7bb4-49fc-b730-e641f98b843.jpg alt="Second Image" style="width: 100%; height: auto; max-width: 800px;">
 </div>
 
 
